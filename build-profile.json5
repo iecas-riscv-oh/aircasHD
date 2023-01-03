@@ -1,0 +1,40 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "material": {
+          "certpath": "C:\\Users\\user\\.ohos\\config\\openharmony\\auto_ohos_default_com.example.aircashd_ets.cer",
+          "storePassword": "0000001AE574933728C66A26B529DA8E04E3610A25DE637DC956298180CCF92853D586B739E36019A4D7",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001AA613225D5FD465CDFA59B307B456EE67976B62121E3C713E06A3297E273B3A612DF50A366F2C",
+          "profile": "C:\\Users\\user\\.ohos\\config\\openharmony\\auto_ohos_default_com.example.aircashd_ets.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\user\\.ohos\\config\\openharmony\\auto_ohos_default_com.example.aircashd_ets.p12"
+        }
+      }
+    ],
+    "compileSdkVersion": 8,
+    "compatibleSdkVersion": 8,
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

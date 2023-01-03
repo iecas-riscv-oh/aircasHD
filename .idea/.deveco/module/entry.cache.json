@@ -1,0 +1,15 @@
+{
+	"BuildOptions":{
+		"SELECT_BUILD_TARGET":"default",
+		"BUILD_PATH":{
+			"OUTPUT_PATH":"D:\\gitrepo\\zp_workspace\\aircasHD_ets\\entry\\build\\default\\outputs\\default",
+			"RES_PATH":"D:\\gitrepo\\zp_workspace\\aircasHD_ets\\entry\\build\\default\\intermediates\\res\\default",
+			"ETS_SUPER_VISUAL_PATH":"D:\\gitrepo\\zp_workspace\\aircasHD_ets\\entry\\build\\default\\cache\\default\\LegacyCompileETS\\jsbundle",
+			"JS_ASSETS_PATH":"D:\\gitrepo\\zp_workspace\\aircasHD_ets\\entry\\build\\default\\intermediates\\assets_jsbundle\\default",
+			"RES_PROFILE_PATH":"D:\\gitrepo\\zp_workspace\\aircasHD_ets\\entry\\build\\default\\intermediates\\res\\default\\resources\\base\\profile",
+			"WORKER_LOADER":"D:\\gitrepo\\zp_workspace\\aircasHD_ets\\entry\\build\\default\\intermediates\\loader\\default\\loader.json",
+			"MANIFEST_JSON":"D:\\gitrepo\\zp_workspace\\aircasHD_ets\\entry\\build\\default\\intermediates\\manifest\\default",
+			"JS_SUPER_VISUAL_PATH":"D:\\gitrepo\\zp_workspace\\aircasHD_ets\\entry\\build\\default\\cache\\default\\LegacyCompileJS\\jsbundle"
+		}
+	}
+}

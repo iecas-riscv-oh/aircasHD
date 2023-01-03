@@ -1,0 +1,4 @@
+{
+  "name": "libaircashd.so",
+  "types": "./index.d.ts"
+}
